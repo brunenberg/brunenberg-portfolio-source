@@ -6,11 +6,14 @@ theme = "hello-friend-ng"
 [params.author]
     name = "Wouter Brunenberg"
     email = "wouter.brunenberg@hotmail.com"
+    dateofbirth = "2004-03-07"
 
 [params]
   EnableThemeToggle = true
 
-  homeSubtitle = "Software engineering student at Avans Hogeschool"
+# Accompanying javascript code in the subtitle partial
+# Displaying subtitle is age + 'year old' + homeSubtitle
+  homeSubtitle = "software engineering student at Avans Hogeschool"
 
 [params.portrait]
     path     = "/images/home/placeholder.jpg"
