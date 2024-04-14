@@ -3,10 +3,9 @@ languageCode = "en-us"
 title = "Wouter Brunenberg"
 theme = "hello-friend-ng"
 
-[author]
+[params.author]
     name = "Wouter Brunenberg"
     email = "wouter.brunenberg@hotmail.com"
-    image = "/images/home/placeholder.jpg"
 
 [params]
   EnableThemeToggle = true
@@ -37,6 +36,7 @@ theme = "hello-friend-ng"
 
 [params.footer]
     trademark = "2024"
-    author = "Wouter Brunenberg"
+    author = true
     topText = ["Software Engineering Student at Avans Hogeschool"]
     bottomText = ["wouter.brunenberg@hotmail.com", "https://github.com/brunenberg"]
+    
