@@ -2,3 +2,6 @@ baseURL = "https://brunenberg.github.io/"
 languageCode = "en-us"
 title = "Portfolio"
 theme = "hello-friend-ng"
+
+[params]
+  EnableThemeToggle = true
