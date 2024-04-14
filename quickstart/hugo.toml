@@ -1,7 +1,42 @@
 baseURL = "https://brunenberg.github.io/"
 languageCode = "en-us"
-title = "Portfolio"
+title = "Wouter Brunenberg"
 theme = "hello-friend-ng"
+
+[author]
+    name = "Wouter Brunenberg"
+    email = "wouter.brunenberg@hotmail.com"
+    image = "/images/home/placeholder.jpg"
 
 [params]
   EnableThemeToggle = true
+
+  homeSubtitle = "Software engineering student at Avans Hogeschool"
+
+[params.portrait]
+    path     = "/images/home/placeholder.jpg"
+    alt      = "Portrait"
+    size = "175px"
+
+# Social icons
+  [[params.social]]
+    name = "email"
+    url  = "mailto:wouter.brunenberg@hotmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/brunenberg"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/wouterbrunenberg"
+
+  [[params.social]]
+    name = "stackoverflow"
+    url  = "https://stackoverflow.com/users/24323776/wouter-brunenberg"
+
+[params.footer]
+    trademark = "2024"
+    author = "Wouter Brunenberg"
+    topText = ["Software Engineering Student at Avans Hogeschool"]
+    bottomText = ["wouter.brunenberg@hotmail.com", "https://github.com/brunenberg"]
