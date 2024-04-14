@@ -1,4 +1,4 @@
 +++
-title = 'About'
+title = 'Skills'
 menu = 'main'
 +++
