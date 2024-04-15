@@ -17,7 +17,7 @@ I believe in the power of practical experience and am eager to apply my growing 
 
 When I'm not coding, I enjoy:
 
-- **Reading:** Mostly non-fiction, especially books on personal development and technology trends.
+- **Reading:** I'm drawn to non-fiction and realistic fiction that offers valuable life lessons. My reading list often includes stories that portray authentic experiences and moral insights.
 - **Movies and Series:** Some of my personal favourite movies are `Pulp Fuction`, `Falling Down` and `The Truman Show`. Some of my favourite series are `Breaking Bad`, `Bojack Horseman` and `The Queen's Gambit`.
 - **Gaming:** I mostly enjoy playing strategy board games such as `Chess` and `Settlers of Catan`, as well as videogames such as `Trackmania`, `Minecraft`, `Valorant` and a lot of games in the `Walking Simulator` category.
 - **Piano:** I took piano lessons for four years before stopping because I couldn't find the time to continue. However, I still play on occasion. Here is a sample:  
