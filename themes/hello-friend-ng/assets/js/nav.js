@@ -6,7 +6,7 @@ window.addEventListener("load", () => {
 
     const isLetterKey = (key) => key.length === 1 && /[a-zA-Z]/.test(key);
 
-    const CHARACTER_LIMIT = 37;
+    const CHARACTER_LIMIT = 10;
   
     const keyDown = (e) => {
       if (e.key === KEY_ENTER) {
