@@ -1,4 +1,4 @@
 +++
-title = 'Skills'
+title = 'Skills 📚'
 menu = 'main'
 +++
