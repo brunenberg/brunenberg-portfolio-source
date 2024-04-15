@@ -65,4 +65,4 @@ Enthusiastic about Hugo, effectively leveraging its capabilities to build fast a
 
 **Decision Making:** Exercises sound judgment in decision-making, carefully considering various factors to make informed choices.
 
-**Practical Wisdom:** Possesses a strong sense of practicality and common sense, enabling effective problem-solving and task management.
+**Practical Problem-Solving:** Possesses a strong sense of practicality and common sense, enabling effective problem-solving and task management.
