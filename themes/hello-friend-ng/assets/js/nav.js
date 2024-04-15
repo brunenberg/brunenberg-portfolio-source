@@ -4,7 +4,7 @@ window.addEventListener("load", () => {
     const KEY_ENTER = 'Enter';
     const KEY_BACKSPACE = 'Backspace';
 
-    const isLetterKey = (key) => key.length === 1 && /[a-zA-Z]/.test(key);
+    const isLetterOrDigitKey = (key) => key.length === 1 && /[\w]/.test(key) && key !== '_';
 
     const CHARACTER_LIMIT = 10;
   
@@ -26,7 +26,7 @@ window.addEventListener("load", () => {
         return;
       }
       
-      if (isLetterKey(e.key) && terminal.textContent.length < CHARACTER_LIMIT) {
+      if (isLetterOrDigitKey(e.key) && terminal.textContent.length < CHARACTER_LIMIT) {
         terminal.textContent += e.key;
       }
     }
