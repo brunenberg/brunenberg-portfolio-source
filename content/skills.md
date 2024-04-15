@@ -59,10 +59,10 @@ Enthusiastic about Hugo, effectively leveraging its capabilities to build fast a
 
 ## Soft Skills 💡
 
-**Team Collaboration:** Thrives in team settings, contributing to and valuing the synergy that comes from diverse perspectives and skills.
+**Team Collaboration:** Works effectively within team settings, appreciating the collective strengths and insights that each member brings, and contributes to group objectives.
 
 **Feedback Utilization:** Embraces constructive feedback, using it as a source for personal growth and enhanced performance.
 
-**Decision Making:** Exercises sound judgment in decision-making, carefully considering various factors to make informed choices.
+**Decision Making:** Exercises sound judgement in decision-making, carefully considering various factors to make informed choices.
 
 **Practical Problem-Solving:** Possesses a strong sense of practicality and common sense, enabling effective problem-solving and task management.
