@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on Wouter Brunenberg</title>
+    <link>http://localhost:1313/tags/java/</link>
+    <description>Recent content in Java on Wouter Brunenberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</managingEditor>
+    <webMaster>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</webMaster>
+    <lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drawing Application</title>
+      <link>http://localhost:1313/portfolio/drawing-app/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/drawing-app/</guid>
+      <description>Overview Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used Technology 1 Technology 2 Challenges and Solutions Discuss any challenges faced and how I overcame them.&#xA;Screenshots !Project Screenshot&#xA;Conclusion Summarize the project and its impact.</description>
+    </item>
+    <item>
+      <title>Tile Switcher</title>
+      <link>http://localhost:1313/portfolio/tile-switcher/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/tile-switcher/</guid>
+      <description>Overview Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used Technology 1 Technology 2 Challenges and Solutions Discuss any challenges faced and how I overcame them.&#xA;Screenshots !Project Screenshot&#xA;Conclusion Summarize the project and its impact.</description>
+    </item>
+    <item>
+      <title>Speedquiz</title>
+      <link>http://localhost:1313/portfolio/speedquiz/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/speedquiz/</guid>
+      <description>Overview Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used Technology 1 Technology 2 Challenges and Solutions Discuss any challenges faced and how I overcame them.&#xA;Screenshots !Project Screenshot&#xA;Conclusion Summarize the project and its impact.</description>
+    </item>
+    <item>
+      <title>Project Sagrada</title>
+      <link>http://localhost:1313/portfolio/project-sagrada-copy/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/project-sagrada-copy/</guid>
+      <description>Overview Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used Technology 1 Technology 2 Challenges and Solutions Discuss any challenges faced and how I overcame them.&#xA;Screenshots !Project Screenshot&#xA;Conclusion Summarize the project and its impact.</description>
+    </item>
+    <item>
+      <title>Reversi</title>
+      <link>http://localhost:1313/portfolio/reversi/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/reversi/</guid>
+      <description>Overview Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used Technology 1 Technology 2 Challenges and Solutions Discuss any challenges faced and how I overcame them.&#xA;Screenshots !Project Screenshot&#xA;Conclusion Summarize the project and its impact.</description>
+    </item>
+  </channel>
+</rss>
