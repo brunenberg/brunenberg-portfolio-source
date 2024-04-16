@@ -37,6 +37,10 @@ theme = "hello-friend-ng"
     name = "stackoverflow"
     url  = "https://stackoverflow.com/users/24323776/wouter-brunenberg"
 
+  [[params.social]]
+    name = "spotify"
+    url  = "https://open.spotify.com/user/31hq2nmmk4zk4eybl74otsppfntm"
+
 [params.footer]
     trademark = "2024"
     author = true
