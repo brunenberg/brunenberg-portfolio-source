@@ -46,4 +46,7 @@ theme = "hello-friend-ng"
     author = true
     topText = ["Software Engineering Student at Avans Hogeschool"]
     bottomText = ["wouter.brunenberg@hotmail.com", "https://github.com/brunenberg"]
+
+[taxonomies]
+  tag = "tags"
     

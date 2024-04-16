@@ -1,0 +1,10 @@
+<ul>
+  {{ range $taxonomyName, $taxonomy := .Site.Taxonomies }}
+    {{ if eq $taxonomyName "tags" }}
+      {{ range $tagName, $tag := $taxonomy }}
+        <li><a href="{{ "tags/" | relLangURL }}{{ $tagName | urlize }}/">{{ $tagName }}</a> ({{ len $tag }})</li>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</ul>
+  
