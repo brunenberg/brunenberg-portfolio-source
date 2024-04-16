@@ -63,6 +63,8 @@ Enthusiastic about Hugo, effectively leveraging its capabilities to build fast a
 
 **Feedback Utilization:** Embraces constructive feedback, using it as a source for personal growth and enhanced performance.
 
+**Effective Communication:** Demonstrates the ability to convey information clearly and concisely, both verbally and in writing. Listens actively to understand others' viewpoints.
+
 **Decision Making:** Exercises sound judgement in decision-making, carefully considering various factors to make informed choices.
 
 **Practical Problem-Solving:** Possesses a strong sense of practicality and common sense, enabling effective problem-solving and task management.
