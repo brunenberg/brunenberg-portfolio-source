@@ -4,7 +4,7 @@
             <img src="{{ .Site.Params.Logo.path }}" alt="{{ .Site.Params.Logo.alt }}" />
         {{ else }}
             <span class="logo__mark"></span>
-            <span class="logo__text">{{- with .Site.Params.Logo.logoText }}{{ . }}{{ else }}>cd&nbsp;{{ end }}<span
+            <span class="logo__text">{{- with .Site.Params.Logo.logoText }}{{ . }}{{ else }}root>cd&nbsp;{{ end }}<span
                 id="nav-terminal"></span></span>
             <span class="logo__cursor" style=
                   "{{ with.Site.Params.Logo.logoCursorDisabled }}visibility:hidden;{{ end }}

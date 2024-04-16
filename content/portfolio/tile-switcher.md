@@ -16,7 +16,7 @@ Describe the project, its goals, and what it accomplishes.
 Discuss any challenges faced and how I overcame them.
 
 ## Screenshots
-!Project Screenshot
+![example](/gifs/tile-switcher.gif)
 
 ## Conclusion
 Summarize the project and its impact.
