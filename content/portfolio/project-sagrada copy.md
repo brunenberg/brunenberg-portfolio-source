@@ -5,18 +5,18 @@ tags = ['Java', 'JavaFX', 'Object Oriented', 'MVC']
 categories = ['School Assignments', 'Collaborative Projects']
 +++
 
-## Overview
+## Overview 🗺️
 Describe the project, its goals, and what it accomplishes.
 
-## Technologies Used
+## Technologies Used 🛠️
 - Technology 1
 - Technology 2
 
-## Challenges and Solutions
+## Challenges and Solutions 🧗🏻
 Discuss any challenges faced and how I overcame them.
 
-## Showcase
+## Showcase 📸
 !Project Screenshot
 
-## Conclusion
+## Conclusion 🏁
 Summarize the project and its impact.
