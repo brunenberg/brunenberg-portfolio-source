@@ -46,11 +46,11 @@
       <description>Overview Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used Technology 1 Technology 2 Challenges and Solutions Discuss any challenges faced and how I overcame them.&#xA;Screenshots !Project Screenshot&#xA;Conclusion Summarize the project and its impact.</description>
     </item>
     <item>
-      <title>Tile Switcher</title>
-      <link>http://localhost:1313/portfolio/tile-switcher/</link>
+      <title>Pane Switcher</title>
+      <link>http://localhost:1313/portfolio/pane-switcher/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
-      <guid>http://localhost:1313/portfolio/tile-switcher/</guid>
-      <description>Overview Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used Technology 1 Technology 2 Challenges and Solutions Discuss any challenges faced and how I overcame them.&#xA;Screenshots !Project Screenshot&#xA;Conclusion Summarize the project and its impact.</description>
+      <guid>http://localhost:1313/portfolio/pane-switcher/</guid>
+      <description>Overview &amp;lsquo;Pane Switcher&amp;rsquo; is an application I crafted for a programming test at school. The challenge was to replicate a given example app within 90 minutes. This app featured a button that, when pressed, would modify the appearance of various panels. Although I completed the task within the exam period, I chose to refine my work at home for better results.&#xA;Technologies Used Java: The core language for crafting the application&amp;rsquo;s logic.</description>
     </item>
     <item>
       <title>Speedquiz</title>
