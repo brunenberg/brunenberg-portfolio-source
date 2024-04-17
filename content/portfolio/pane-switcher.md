@@ -16,7 +16,7 @@ categories = ['School Assignments', 'Solo Projects']
 ## Challenges and Solutions
 The primary hurdle was incorporating a `StackPane`, which was new to me. In the exam, I managed with an alternative approach, but later, at home, I realized it was a lot easier than I thought it was.
 
-## Screenshots
+## Showcase
 ![example](/gifs/pane-switcher.gif)
 
 ## Conclusion

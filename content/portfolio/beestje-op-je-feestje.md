@@ -17,7 +17,7 @@ Describe the project, its goals, and what it accomplishes.
 ## Challenges and Solutions
 Discuss any challenges faced and how I overcame them.
 
-## Screenshots
+## Showcase
 !Project Screenshot
 
 ## Conclusion
