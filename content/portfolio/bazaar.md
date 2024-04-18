@@ -52,9 +52,9 @@ categories = ['School Assignments', 'Collaborative Projects']
 The challenge of this application was to implement a large list of requirements in quite a short amount of time. A lot of those requirements had quite a vague description, so it was all up to interpretation.
 
 ## Showcase 📸
-![Image of the home page](/images/portfolio/bazaar_home.jpg)  
-![Image of the product page](/images/portfolio/bazaar_product.jpg)  
-![Image of the agenda page](/images/portfolio/bazaar_agenda.jpg)
+![Home page image](/images/portfolio/bazaar_home.jpg)  
+![Product page image](/images/portfolio/bazaar_product.jpg)  
+![Agenda page image](/images/portfolio/bazaar_agenda.jpg)
 
 ## Conclusion 🏁
 The project progressed smoothly overall, yet as the deadline approached, we found ourselves with more tasks remaining than anticipated. Although we initiated the project on time, juggling it alongside other assignments was more challenging than expected. In hindsight, spending additional time to the project at the start of the period might have decreased the end-of-term workload.

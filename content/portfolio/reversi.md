@@ -21,7 +21,7 @@ Another difficult part about this assignment, was that I had to come up with som
 The final important challenge I want to mention, is using the debugger. When I first used it, there were a lot of things on the screen and I was not sure what to make of all of it. I watched some video's about it to understand it better and soon, I understood how it worked pretty well.
 
 ## Showcase 📸
-![Temple of doom showcase](/images/portfolio/reversi_showcase.jpg)
+![Reversi showcase image](/images/portfolio/reversi_showcase.jpg)
 
 ## Conclusion 🏁
 This assignment laid the foundation for my OOP (Object Oriented Programming) knowledge. That is probably the single most valuable programming technology I know, and I have since gotten a lot more confortable with it. This assignment really showed me how amazing code can be. I also learned about the importance of the debugger and how to use it for finding problems in my code.

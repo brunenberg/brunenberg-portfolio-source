@@ -25,9 +25,9 @@ One of the biggest challenges was researching all the different kind of design p
 However, the biggest challenge in my opinion, was understanding how the connections between the different rooms worked. I found it really hard to wrap my head around the idea of having connections that could also be doors (with decorators) and those had a nullable value for each direction, which corresponded with the 'id' of a room. When I finally fully understood it, the implementation was not that much of an issue, but understanding it initially was quite a challenge.
 
 ## Showcase 📸
-![Temple of doom showcase](/images/portfolio/temple_of_doom_showcase.jpg)  
-![Temple of doom win showcase](/images/portfolio/temple_of_doom_win.jpg)  
-![Temple of doom game over showcase](/images/portfolio/temple_of_doom_loss.jpg)
+![Temple of Doom showcase image](/images/portfolio/temple_of_doom_showcase.jpg)  
+![Temple of Doom win showcase image](/images/portfolio/temple_of_doom_win.jpg)  
+![Temple of Doom game over showcase image](/images/portfolio/temple_of_doom_loss.jpg)
 
 ## Conclusion 🏁
 I initially was pretty intimidated by the concept of design patterns, but they turned out to be very useful and not very hard to understand and implement. I also learned about the importance of understanding concepts of 'features' thoroughly, before starting to write the code for them.

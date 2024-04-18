@@ -17,7 +17,7 @@ categories = ['School Assignments', 'Solo Projects']
 The primary hurdle was incorporating a `StackPane`, which was new to me. In the exam, I managed with an alternative approach, but later, at home, I realized it was a lot easier than I thought it was.
 
 ## Showcase 📸
-![Pane Switcher Showcase Gif](/images/portfolio/pane-switcher.gif)
+![Pane Switcher showcase gif](/images/portfolio/pane-switcher.gif)
 
 ## Conclusion 🏁
 This project taught me a valuable lesson: attempting unfamiliar tasks can be rewarding. Had I approached the `StackPane` during the exam, I'm confident I would have gotten all the point for this exam.
