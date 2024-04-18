@@ -6,7 +6,7 @@ categories = ['School Assignments', 'Collaborative Projects']
 +++
 
 ## Overview 🗺️
-‘Bazaar’ is a web application developed using the Laravel framework as part of an academic project. It was collaboratively created by a team of two students. The platform is designed to integrate features reminiscent of “Marktplaats” and “iBood”, offering a unique marketplace experience. The application supports three distinct user roles: private advertisers, business advertisers, and customers. Each role is equipped with specific permissions and functionalities, enabling interactions with various entities such as products or companies.
+'Bazaar' is a web application developed using the Laravel framework as part of an academic project. It was collaboratively created by a team of two students. The platform is designed to integrate features reminiscent of “Marktplaats” and “iBood”, offering a unique marketplace experience. The application supports three distinct user roles: private advertisers, business advertisers, and customers. Each role is equipped with specific permissions and functionalities, enabling interactions with various entities such as products or companies.
 
 ### The user stories (without acceptance criteria, these are not included)
 - As a user, I can register on the platform (without the possibility of advertising)
@@ -53,10 +53,8 @@ The challenge of this application was to implement a large list of requirements 
 
 ## Showcase 📸
 ![Image of the home page](/images/portfolio/bazaar_home.jpg)  
-
-![Image of the home product](/images/portfolio/bazaar_product.jpg)  
-
-![Image of the home agenda](/images/portfolio/bazaar_agenda.jpg)
+![Image of the product page](/images/portfolio/bazaar_product.jpg)  
+![Image of the agenda page](/images/portfolio/bazaar_agenda.jpg)
 
 ## Conclusion 🏁
 The project progressed smoothly overall, yet as the deadline approached, we found ourselves with more tasks remaining than anticipated. Although we initiated the project on time, juggling it alongside other assignments was more challenging than expected. In hindsight, spending additional time to the project at the start of the period might have decreased the end-of-term workload.

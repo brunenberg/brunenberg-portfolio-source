@@ -22,14 +22,14 @@
       <link>http://localhost:1313/portfolio/bazaar/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
       <guid>http://localhost:1313/portfolio/bazaar/</guid>
-      <description>Overview 🗺️ Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used 🛠️ Technology 1 Technology 2 Challenges and Solutions 🧗🏻 Discuss any challenges faced and how I overcame them.&#xA;Showcase 📸 !Project Screenshot&#xA;Conclusion 🏁 Summarize the project and its impact.</description>
+      <description>Overview 🗺️ &amp;lsquo;Bazaar&amp;rsquo; is a web application developed using the Laravel framework as part of an academic project. It was collaboratively created by a team of two students. The platform is designed to integrate features reminiscent of “Marktplaats” and “iBood”, offering a unique marketplace experience. The application supports three distinct user roles: private advertisers, business advertisers, and customers. Each role is equipped with specific permissions and functionalities, enabling interactions with various entities such as products or companies.</description>
     </item>
     <item>
-      <title>Temple Of Doom</title>
+      <title>Temple of Doom</title>
       <link>http://localhost:1313/portfolio/temple-of-doom/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
       <guid>http://localhost:1313/portfolio/temple-of-doom/</guid>
-      <description>Overview 🗺️ Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used 🛠️ Technology 1 Technology 2 Challenges and Solutions 🧗🏻 Discuss any challenges faced and how I overcame them.&#xA;Showcase 📸 !Project Screenshot&#xA;Conclusion 🏁 Summarize the project and its impact.</description>
+      <description>Overview 🗺️ &amp;lsquo;Temple of Doom&amp;rsquo; is a console application developed using the .NET MVC framework. The goal of this assignment was to practice a lot of different design patterns. The front consisted of a console with different characters and colours, depending on the type of object and if it had a colour property assigned to it (in the case of a key or coloured door for example).&#xA;Technologies Used 🛠️ C# .</description>
     </item>
     <item>
       <title>Project Bumbo</title>
