@@ -5,10 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="">
-<meta name="description" content="Overview 🗺️ Describe the project, its goals, and what it accomplishes.
-Technologies Used 🛠️ Technology 1 Technology 2 Challenges and Solutions 🧗🏻 Discuss any challenges faced and how I overcame them.
-Showcase 📸 !Project Screenshot
-Conclusion 🏁 Summarize the project and its impact." />
+<meta name="description" content="Overview 🗺️ ‘Bazaar’ is a web application developed using the Laravel framework as part of an academic project. It was collaboratively created by a team of two students. The platform is designed to integrate features reminiscent of “Marktplaats” and “iBood”, offering a unique marketplace experience. The application supports three distinct user roles: private advertisers, business advertisers, and customers. Each role is equipped with specific permissions and functionalities, enabling interactions with various entities such as products or companies." />
 <meta name="keywords" content=", PHP, Laravel, Unit Testing" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
@@ -39,18 +36,12 @@ Conclusion 🏁 Summarize the project and its impact." />
 
 
 <meta itemprop="name" content="Bazaar">
-<meta itemprop="description" content="Overview 🗺️ Describe the project, its goals, and what it accomplishes.
-Technologies Used 🛠️ Technology 1 Technology 2 Challenges and Solutions 🧗🏻 Discuss any challenges faced and how I overcame them.
-Showcase 📸 !Project Screenshot
-Conclusion 🏁 Summarize the project and its impact."><meta itemprop="datePublished" content="2024-04-01T00:00:00+00:00" />
+<meta itemprop="description" content="Overview 🗺️ ‘Bazaar’ is a web application developed using the Laravel framework as part of an academic project. It was collaboratively created by a team of two students. The platform is designed to integrate features reminiscent of “Marktplaats” and “iBood”, offering a unique marketplace experience. The application supports three distinct user roles: private advertisers, business advertisers, and customers. Each role is equipped with specific permissions and functionalities, enabling interactions with various entities such as products or companies."><meta itemprop="datePublished" content="2024-04-01T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2024-04-01T00:00:00+00:00" />
-<meta itemprop="wordCount" content="43">
+<meta itemprop="wordCount" content="687">
 <meta itemprop="keywords" content="PHP,Laravel,Unit Testing," />
 <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Bazaar"/>
-<meta name="twitter:description" content="Overview 🗺️ Describe the project, its goals, and what it accomplishes.
-Technologies Used 🛠️ Technology 1 Technology 2 Challenges and Solutions 🧗🏻 Discuss any challenges faced and how I overcame them.
-Showcase 📸 !Project Screenshot
-Conclusion 🏁 Summarize the project and its impact."/>
+<meta name="twitter:description" content="Overview 🗺️ ‘Bazaar’ is a web application developed using the Laravel framework as part of an academic project. It was collaboratively created by a team of two students. The platform is designed to integrate features reminiscent of “Marktplaats” and “iBood”, offering a unique marketplace experience. The application supports three distinct user roles: private advertisers, business advertisers, and customers. Each role is equipped with specific permissions and functionalities, enabling interactions with various entities such as products or companies."/>
 
 
 
@@ -141,18 +132,59 @@ Conclusion 🏁 Summarize the project and its impact."/>
 
             <div class="post-content">
                 <h2 id="overview-">Overview 🗺️</h2>
-<p>Describe the project, its goals, and what it accomplishes.</p>
+<p>‘Bazaar’ is a web application developed using the Laravel framework as part of an academic project. It was collaboratively created by a team of two students. The platform is designed to integrate features reminiscent of “Marktplaats” and “iBood”, offering a unique marketplace experience. The application supports three distinct user roles: private advertisers, business advertisers, and customers. Each role is equipped with specific permissions and functionalities, enabling interactions with various entities such as products or companies.</p>
+<h3 id="the-user-stories-without-acceptance-criteria-these-are-not-included">The user stories (without acceptance criteria, these are not included)</h3>
+<ul>
+<li>As a user, I can register on the platform (without the possibility of advertising)</li>
+<li>As a user, I can register as a private advertiser</li>
+<li>As a user, I can register as a business advertiser</li>
+<li>As platform owner, I want to export the business registration as a PDF (contract) so that it can be signed. (you may use a package for this)</li>
+<li>As platform owner, I want to offer the application in two languages</li>
+<li>As platform owner, I want to be able to upload the contracts so they can be approved</li>
+<li>As platform owner, I want API calls to be invoked securely</li>
+<li>As a company, I want to be able to give my own look and feel to the application</li>
+<li>As a company, I want to be able to set my own URL so I can create a landing page</li>
+<li>As a business, I want to link different components to my landing page so I don&rsquo;t have to create everything myself. A component could be: Featured ads, an introduction text, image. Think of it as a page layout creator.</li>
+<li>As a company, I want to unlock an API so that only my ads can be used by another application</li>
+<li>As a company, I want to upload a csv of ads so I can load all ads in one go, saving time</li>
+<li>As a platform owner, I want every ad to be tagged with a QR code so it&rsquo;s easily shareable. (You can use a package for this)</li>
+<li>As advertiser I want to be able to place a rental ad</li>
+<li>As advertiser, I want a calendar overview of all my rentals so I can see when I need to lend out and get stuff back</li>
+<li>As advertiser, I want a calendar overview of when my ads will expire</li>
+<li>As a user, I want to be able to see a history of purchased products</li>
+<li>As a user, I want to be able to create favourites</li>
+<li>As a user, I want to see a calendar overview of rented products so I know when I can pick up and return something</li>
+<li>As a user, I want to be able to see a homepage with the latest advertisements</li>
+<li>As a user, I want to be able to post a review of a rental product</li>
+<li>As a user, I want to be able to post a review of an advertiser</li>
+<li>General &gt; each &rsquo;list&rsquo; must be able to be filtered and sorted</li>
+<li>General &gt; every listing contains paging</li>
+</ul>
+<h3 id="businessrules">Businessrules</h3>
+<ul>
+<li>When returning a product, wear is calculated (according to settings)</li>
+<li>When returning a product, a photo must be uploaded</li>
+<li>You may only create a maximum of 4 bids</li>
+<li>You may only place a maximum of 4 advertisements</li>
+<li>You may only create a maximum of 4 rental ads</li>
+<li>An ad is the link with multiple ad &gt; in other words if you rent out a chainsaw you can buy a bottle of oil with it.</li>
+</ul>
 <h2 id="technologies-used-">Technologies Used 🛠️</h2>
 <ul>
-<li>Technology 1</li>
-<li>Technology 2</li>
+<li>PHP</li>
+<li>Laravel</li>
+<li>SQL Database</li>
+<li>Microsoft SQL Server Management Studio</li>
+<li>Trello</li>
 </ul>
 <h2 id="challenges-and-solutions-">Challenges and Solutions 🧗🏻</h2>
-<p>Discuss any challenges faced and how I overcame them.</p>
+<p>The challenge of this application was to implement a large list of requirements in quite a short amount of time. A lot of those requirements had quite a vague description, so it was all up to interpretation.</p>
 <h2 id="showcase-">Showcase 📸</h2>
-<p>!Project Screenshot</p>
+<p><img src="/images/portfolio/bazaar_home.jpg" alt="Image of the home page"></p>
+<p><img src="/images/portfolio/bazaar_product.jpg" alt="Image of the home product"></p>
+<p><img src="/images/portfolio/bazaar_agenda.jpg" alt="Image of the home agenda"></p>
 <h2 id="conclusion-">Conclusion 🏁</h2>
-<p>Summarize the project and its impact.</p>
+<p>The project progressed smoothly overall, yet as the deadline approached, we found ourselves with more tasks remaining than anticipated. Although we initiated the project on time, juggling it alongside other assignments was more challenging than expected. In hindsight, spending additional time to the project at the start of the period might have decreased the end-of-term workload.</p>
 
             </div>
         </article>
