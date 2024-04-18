@@ -71,7 +71,7 @@
       <link>http://localhost:1313/portfolio/reversi/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
       <guid>http://localhost:1313/portfolio/reversi/</guid>
-      <description>Overview 🗺️ Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used 🛠️ Technology 1 Technology 2 Challenges and Solutions 🧗🏻 Discuss any challenges faced and how I overcame them.&#xA;Showcase 📸 !Project Screenshot&#xA;Conclusion 🏁 Summarize the project and its impact.</description>
+      <description>Overview 🗺️ &amp;lsquo;Temple of Doom&amp;rsquo; is a console application developed for a school assignment. The goal of making this application was to achieve a good understanding of OOP (Object Oriented Programming). I had to recreate the board game &amp;lsquo;Reversi&amp;rsquo;. The player(s) have to answer a few questions about the game configuration before starting. After that, it&amp;rsquo;s just a normal game of Reversi.&#xA;Technologies Used 🛠️ Java Eclipse OOP (Object Oriented Programming) Challenges and Solutions 🧗🏻 Initially it was a little difficult to get a grasp on the concept of OOP (Object Oriented Programming).</description>
     </item>
   </channel>
 </rss>

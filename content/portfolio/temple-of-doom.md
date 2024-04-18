@@ -20,7 +20,9 @@ categories = ['School Assignments', 'Solo Projects']
   - Adapter
 
 ## Challenges and Solutions 🧗🏻
-One of the biggest challenges was researching all the different kind of design patterns and assessing for which purpose each pattern had to be used, without knowing a lot about them. However, the biggest challenge in my opinion, was understanding how the connections between the different rooms worked. I found it really hard to wrap my head around the idea of having connections that could also be doors (with decorators) and those had a nullable value for each direction, which corresponded with the 'id' of a room. When I finally fully understood it, the implementation was not that much of an issue, but understanding it initially was quite a challenge.
+One of the biggest challenges was researching all the different kind of design patterns and assessing for which purpose each pattern had to be used, without knowing a lot about them.  
+  
+However, the biggest challenge in my opinion, was understanding how the connections between the different rooms worked. I found it really hard to wrap my head around the idea of having connections that could also be doors (with decorators) and those had a nullable value for each direction, which corresponded with the 'id' of a room. When I finally fully understood it, the implementation was not that much of an issue, but understanding it initially was quite a challenge.
 
 ## Showcase 📸
 ![Temple of doom showcase](/images/portfolio/temple_of_doom_showcase.jpg)  
