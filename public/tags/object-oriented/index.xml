@@ -43,7 +43,7 @@
       <link>http://localhost:1313/portfolio/drawing-app/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
       <guid>http://localhost:1313/portfolio/drawing-app/</guid>
-      <description>Overview 🗺️ Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used 🛠️ Technology 1 Technology 2 Challenges and Solutions 🧗🏻 Discuss any challenges faced and how I overcame them.&#xA;Showcase 📸 !Project Screenshot&#xA;Conclusion 🏁 Summarize the project and its impact.</description>
+      <description>Overview 🗺️ When school ended for the year and I had some spare time, I chose to start building a drawing/editing app using JavaFX. I had just learned about this technology and was curious to see how far I could get with this somewhat outdated technology. After setting up the basic features and tools like the pencil, brush, paint bucket, and eraser, I stopped working on the project. I decided it would be better to start exploring other technologies.</description>
     </item>
     <item>
       <title>Pane Switcher</title>
