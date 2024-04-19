@@ -14,7 +14,7 @@ When school ended for the year and I had some spare time, I chose to start build
 - Eclipse
 
 ## Challenges and Solutions 🧗🏻
-While working on this ongoing project, I didn’t face any big problems. The part where I had to create icons for the tools was a little tough because I used only JavaFX for it. The most challenging part was adding the anti-aliasing feature to the brush tool. I used a formula that I knew well (the Pythagorean theorem), but I encountered some issues related to how transparent the pixels were when I was coding it. After some troubleshooting, I was able to find the solutions.
+While working on this ongoing project, I didn't face any big problems. The part where I had to create icons for the tools was a little tough because I used only JavaFX for it. The most challenging part was adding the anti-aliasing feature to the brush tool. I used a formula that I knew well (the Pythagorean theorem), but I encountered some issues related to how transparent the pixels were when I was coding it. After some troubleshooting, I was able to find the solutions.
 
 ## Showcase 📸
 ![Image of the drawing app](/images/portfolio/drawing_app_showcase.jpg)  
