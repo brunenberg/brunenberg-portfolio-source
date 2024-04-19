@@ -8,7 +8,7 @@ categories = ['School Assignments', 'Collaborative Projects']
 ## Overview 🗺️
 'Bazaar' is a web application developed using the Laravel framework as part of an academic project. It was collaboratively created by a team of two students. The platform is designed to integrate features reminiscent of “Marktplaats” and “iBood”, offering a unique marketplace experience. The application supports three distinct user roles: private advertisers, business advertisers, and customers. Each role is equipped with specific permissions and functionalities, enabling interactions with various entities such as products or companies.
 
-### The user stories (without acceptance criteria, these are not included)
+### The user stories (without acceptance criteria, these were not included in the assignment)
 - As a user, I can register on the platform (without the possibility of advertising)
 - As a user, I can register as a private advertiser
 - As a user, I can register as a business advertiser
@@ -33,7 +33,7 @@ categories = ['School Assignments', 'Collaborative Projects']
 - As a user, I want to be able to post a review of an advertiser
 - General > each 'list' must be able to be filtered and sorted
 - General > every listing contains paging
-### Businessrules
+### Business rules
 - When returning a product, wear is calculated (according to settings)
 - When returning a product, a photo must be uploaded
 - You may only create a maximum of 4 bids
