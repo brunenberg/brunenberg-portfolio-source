@@ -21,7 +21,7 @@ When I'm not coding, I enjoy:
 - **Reading:** I'm drawn to non-fiction and realistic fiction that offers valuable life lessons. My reading list often includes stories that portray authentic experiences and moral insights.
 - **Gaming:** I mostly enjoy playing strategy board games such as `Chess` and `Settlers of Catan`, as well as videogames such as `Trackmania`, `Minecraft`, `Valorant` and a lot of story games in the `Walking Simulator` category.
 - **Piano:** I took piano lessons for four years before stopping because I couldn't find the time to continue. However, I still play on occasion. Here is a sample:  
-{{< piano src="/audio/placeholder.mp3" >}}
+{{< piano src="/audio/summer_piano_wouter_brunenberg.mp3" >}}
 
 ## Let's Connect 🤝
 
