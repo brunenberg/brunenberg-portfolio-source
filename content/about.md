@@ -7,7 +7,7 @@ Hello! I'm **Wouter Brunenberg**, a software engineer with a passion for buildin
 
 ## Background 🔎
 
-I'm a software engineering student at Avans Hogeschool, diving into the world of full-stack development. I've discovered a genuine interest in the logic and structure that comes with the realm of back-end work.
+I’m a software engineering student at Avans Hogeschool, diving into the world of software development. I’ve discovered a genuine interest in the logic and structure that comes with the realm of back-end work, especially.
 
 While I'm still relatively early in my programming journey, I feel confident that I've already gained a significant amount of knowledge. There's always more to learn, and I'm excited about the endless possibilities to expand my understanding.
 
