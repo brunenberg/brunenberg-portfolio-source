@@ -15,7 +15,7 @@
       <link>http://localhost:1313/portfolio/beestje-op-je-feestje/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
       <guid>http://localhost:1313/portfolio/beestje-op-je-feestje/</guid>
-      <description>Overview 🗺️ Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used 🛠️ Technology 1 Technology 2 Challenges and Solutions 🧗🏻 Discuss any challenges faced and how I overcame them.&#xA;Showcase 📸 !Project Screenshot&#xA;Conclusion 🏁 Summarize the project and its impact.</description>
+      <description>Overview 🗺️ &amp;lsquo;Beestje Op Je Feestje&amp;rsquo; is an app we created in pairs using ASP.NET for a school project. The project mainly focused on validation rules, user authorization and authentication, unit testing, and hosting. An admin user can create animals with specific characteristics. These animals can then be rented by customers for a day, usually for parties. There are rules for choosing animals (for instance, some animals can&amp;rsquo;t be rented with certain others, based on their name or type).</description>
     </item>
     <item>
       <title>Bazaar</title>

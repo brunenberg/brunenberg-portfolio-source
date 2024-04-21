@@ -15,7 +15,7 @@
       <link>http://localhost:1313/portfolio/sesame-street-website/</link>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
       <guid>http://localhost:1313/portfolio/sesame-street-website/</guid>
-      <description>Overview 🗺️ Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used 🛠️ Technology 1 Technology 2 Challenges and Solutions 🧗🏻 Discuss any challenges faced and how I overcame them.&#xA;Showcase 📸 !Project Screenshot&#xA;Conclusion 🏁 Summarize the project and its impact.</description>
+      <description>Overview 🗺️ For this project, I was tasked with creating a website on a theme of my choice. I decided on a Sesame Street theme because I&amp;rsquo;ve always been drawn to its look and it brings back nostalgic memories. The website had to fulfill certain criteria like having five pages each with a unique layout, being responsive using media queries, and including a web form (which wasn&amp;rsquo;t part of the five-page requirement).</description>
     </item>
   </channel>
 </rss>
