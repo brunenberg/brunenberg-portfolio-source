@@ -3,6 +3,7 @@ title = 'Speedquiz'
 date = "2023-06-15"
 tags = ['Java', 'JavaFX', 'Multithreading', 'Object Oriented', 'MVC']
 categories = ['School Assignments', 'Solo Projects']
+draft = true
 +++
 
 ## Overview 🗺️

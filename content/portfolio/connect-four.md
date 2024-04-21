@@ -3,6 +3,7 @@ title = 'Connect Four'
 date = "2022-05-20"
 tags = ['CSharp', '.NET', 'Windows Forms']
 categories = ['School Assignments', 'Solo Projects']
+draft = true
 +++
 
 ## Overview 🗺️

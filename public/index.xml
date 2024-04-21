@@ -36,7 +36,7 @@
       <link>http://localhost:1313/portfolio/project-bumbo/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
       <guid>http://localhost:1313/portfolio/project-bumbo/</guid>
-      <description>Overview 🗺️ &amp;lsquo;Project Bumbo&amp;rsquo; is a project I worked on for school, in a team of five. In a nutshell, the goal was to make a solution to a problem &amp;ldquo;Bumbo&amp;rdquo; (a supermarket chain) was struggling with. This problem was that the manager had to spend a lot of time making a schedule for every week, and the schedule&amp;rsquo;s that were produced were not efficient, because a lot of people had to work overtime and a lot of the time, too many people were working at once.</description>
+      <description>Overview 🗺️ &amp;lsquo;Project Bumbo&amp;rsquo; was a group project I participated in during my school days, where our team of five was tasked with solving a pressing issue for &amp;lsquo;Bumbo&amp;rsquo;, a fictional supermarket chain. The challenge at hand was the time-consuming and inefficient scheduling process that the store manager faced every week. This often resulted in employees working overtime and shifts where the store was either understaffed or overstaffed.&#xA;Technologies Used 🛠️ C# ASP.</description>
     </item>
     <item>
       <title>Ninja Manager</title>
@@ -53,17 +53,17 @@
       <description>Overview 🗺️ When school ended for the year and I had some spare time, I chose to start building a drawing/editing app using JavaFX. I had just learned about this technology and was curious to see how far I could get with this somewhat outdated technology. After setting up the basic features and tools like the pencil, brush, paint bucket, and eraser, I stopped working on the project. I decided it would be better to start exploring other technologies.</description>
     </item>
     <item>
-      <title>Speedquiz</title>
-      <link>http://localhost:1313/portfolio/speedquiz/</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
-      <guid>http://localhost:1313/portfolio/speedquiz/</guid>
-      <description>Overview 🗺️ Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used 🛠️ Technology 1 Technology 2 Challenges and Solutions 🧗🏻 Discuss any challenges faced and how I overcame them.&#xA;Showcase 📸 !Project Screenshot&#xA;Conclusion 🏁 Summarize the project and its impact.</description>
+      <title>Pane Switcher</title>
+      <link>http://localhost:1313/portfolio/pane-switcher/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/pane-switcher/</guid>
+      <description>Overview 🗺️ &amp;lsquo;Pane Switcher&amp;rsquo; is an application I crafted for a programming test at school. The challenge was to replicate a given example app within 90 minutes. This app featured a button that, when pressed, would modify the appearance of various panels. Although I completed the task within the exam period, I chose to refine my work at home for better results.&#xA;Technologies Used 🛠️ Java JavaFX Eclipse Challenges and Solutions 🧗🏻 The primary hurdle was incorporating a StackPane, which was new to me.</description>
     </item>
     <item>
       <title>Project Sagrada</title>
-      <link>http://localhost:1313/portfolio/project-sagrada-copy/</link>
+      <link>http://localhost:1313/portfolio/project-sagrada/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
-      <guid>http://localhost:1313/portfolio/project-sagrada-copy/</guid>
+      <guid>http://localhost:1313/portfolio/project-sagrada/</guid>
       <description>Overview 🗺️ Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used 🛠️ Technology 1 Technology 2 Challenges and Solutions 🧗🏻 Discuss any challenges faced and how I overcame them.&#xA;Showcase 📸 !Project Screenshot&#xA;Conclusion 🏁 Summarize the project and its impact.</description>
     </item>
     <item>
@@ -79,13 +79,6 @@
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
       <guid>http://localhost:1313/portfolio/sesame-street-website/</guid>
       <description>Overview 🗺️ For this project, I was tasked with creating a website on a theme of my choice. I decided on a Sesame Street theme because I&amp;rsquo;ve always been drawn to its look and it brings back nostalgic memories. The website had to fulfill certain criteria like having five pages each with a unique layout, being responsive using media queries, and including a web form (which wasn&amp;rsquo;t part of the five-page requirement).</description>
-    </item>
-    <item>
-      <title>Connect Four</title>
-      <link>http://localhost:1313/portfolio/connect-four/</link>
-      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
-      <guid>http://localhost:1313/portfolio/connect-four/</guid>
-      <description>Overview 🗺️ Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used 🛠️ Technology 1 Technology 2 Challenges and Solutions 🧗🏻 Discuss any challenges faced and how I overcame them.&#xA;Showcase 📸 !Project Screenshot&#xA;Conclusion 🏁 Summarize the project and its impact.</description>
     </item>
     <item>
       <title>About 👋</title>
