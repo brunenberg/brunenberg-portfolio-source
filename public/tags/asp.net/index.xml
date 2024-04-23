@@ -24,12 +24,5 @@
       <guid>http://localhost:1313/portfolio/project-bumbo/</guid>
       <description>Overview 🗺️ &amp;lsquo;Project Bumbo&amp;rsquo; was a group project I participated in during my school days, where our team of five was tasked with solving a pressing issue for &amp;lsquo;Bumbo&amp;rsquo;, a fictional supermarket chain. The challenge at hand was the time-consuming and inefficient scheduling process that the store manager faced every week. This often resulted in employees working overtime and shifts where the store was either understaffed or overstaffed.&#xA;Technologies Used 🛠️ C# ASP.</description>
     </item>
-    <item>
-      <title>Ninja Manager</title>
-      <link>http://localhost:1313/portfolio/ninja-manager/</link>
-      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
-      <guid>http://localhost:1313/portfolio/ninja-manager/</guid>
-      <description>Overview 🗺️ Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used 🛠️ Technology 1 Technology 2 Challenges and Solutions 🧗🏻 Discuss any challenges faced and how I overcame them.&#xA;Showcase 📸 !Project Screenshot&#xA;Conclusion 🏁 Summarize the project and its impact.</description>
-    </item>
   </channel>
 </rss>

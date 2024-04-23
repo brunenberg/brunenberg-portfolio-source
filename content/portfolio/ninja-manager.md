@@ -3,6 +3,7 @@ title = 'Ninja Manager'
 date = "2023-10-22"
 tags = ['CSharp', '.NET', 'ASP.NET', 'EntityFrameworkCore', 'Object Oriented', 'MVC']
 categories = ['School Assignments', 'Collaborative Projects']
+draft = true
 +++
 
 ## Overview 🗺️
