@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laravel on Wouter Brunenberg</title>
+    <link>http://localhost:1313/tags/laravel/</link>
+    <description>Recent content in Laravel on Wouter Brunenberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</managingEditor>
+    <webMaster>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</webMaster>
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/laravel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bazaar</title>
+      <link>http://localhost:1313/portfolio/bazaar/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/bazaar/</guid>
+      <description>Overview 🗺️ &amp;lsquo;Bazaar&amp;rsquo; is a web application developed using the Laravel framework as part of an academic project. It was collaboratively created by a team of two students. The platform is designed to integrate features reminiscent of “Marktplaats” and “iBood”, offering a unique marketplace experience. The application supports three distinct user roles: private advertisers, business advertisers, and customers. Each role is equipped with specific permissions and functionalities, enabling interactions with various entities such as products or companies.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASP.NET on Wouter Brunenberg</title>
+    <link>http://localhost:1313/tags/asp.net/</link>
+    <description>Recent content in ASP.NET on Wouter Brunenberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</managingEditor>
+    <webMaster>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</webMaster>
+    <lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/asp.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beestje Op Je Feestje</title>
+      <link>http://localhost:1313/portfolio/beestje-op-je-feestje/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/beestje-op-je-feestje/</guid>
+      <description>Overview 🗺️ &amp;lsquo;Beestje Op Je Feestje&amp;rsquo; is an app we created in pairs using ASP.NET for a school project. The project mainly focused on validation rules, user authorization and authentication, unit testing, and hosting. An admin user can create animals with specific characteristics. These animals can then be rented by customers for a day, usually for parties. There are rules for choosing animals (for instance, some animals can&amp;rsquo;t be rented with certain others, based on their name or type).</description>
+    </item>
+    <item>
+      <title>Project Bumbo</title>
+      <link>http://localhost:1313/portfolio/project-bumbo/</link>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/project-bumbo/</guid>
+      <description>Overview 🗺️ &amp;lsquo;Project Bumbo&amp;rsquo; was a group project I participated in during my school days, where our team of five was tasked with solving a pressing issue for &amp;lsquo;Bumbo&amp;rsquo;, a fictional supermarket chain. The challenge at hand was the time-consuming and inefficient scheduling process that the store manager faced every week. This often resulted in employees working overtime and shifts where the store was either understaffed or overstaffed.&#xA;Technologies Used 🛠️ C# ASP.</description>
+    </item>
+  </channel>
+</rss>

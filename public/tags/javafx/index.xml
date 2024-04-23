@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaFX on Wouter Brunenberg</title>
+    <link>http://localhost:1313/tags/javafx/</link>
+    <description>Recent content in JavaFX on Wouter Brunenberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</managingEditor>
+    <webMaster>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</webMaster>
+    <lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/javafx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drawing Application</title>
+      <link>http://localhost:1313/portfolio/drawing-app/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/drawing-app/</guid>
+      <description>Overview 🗺️ When school ended for the year and I had some spare time, I chose to start building a drawing/editing app using JavaFX. I had just learned about this technology and was curious to see how far I could get with this somewhat outdated technology. After setting up the basic features and tools like the pencil, brush, paint bucket, and eraser, I stopped working on the project. I decided it would be better to start exploring other technologies.</description>
+    </item>
+    <item>
+      <title>Pane Switcher</title>
+      <link>http://localhost:1313/portfolio/pane-switcher/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/pane-switcher/</guid>
+      <description>Overview 🗺️ &amp;lsquo;Pane Switcher&amp;rsquo; is an application I crafted for a programming test at school. The challenge was to replicate a given example app within 90 minutes. This app featured a button that, when pressed, would modify the appearance of various panels. Although I completed the task within the exam period, I chose to refine my work at home for better results.&#xA;Technologies Used 🛠️ Java JavaFX Eclipse Challenges and Solutions 🧗🏻 The primary hurdle was incorporating a StackPane, which was new to me.</description>
+    </item>
+    <item>
+      <title>Project Sagrada</title>
+      <link>http://localhost:1313/portfolio/project-sagrada/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/project-sagrada/</guid>
+      <description>Overview 🗺️ &amp;lsquo;Project Sagrada&amp;rsquo; was a school project that marked my first significant collaboration, where I worked with a team of five to eight people (it increased because of issues in one of the other groups). This project introduced me to Git and GitHub. Our objective was to develop an online version of the board game &amp;ldquo;Sagrada&amp;rdquo; using JavaFX. We followed a detailed list of requirements to ensure the game was up to the standard.</description>
+    </item>
+  </channel>
+</rss>

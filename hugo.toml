@@ -1,0 +1,52 @@
+baseURL = "https://brunenberg.github.io/"
+languageCode = "en-us"
+title = "Wouter Brunenberg"
+theme = "hello-friend-ng"
+
+[params.author]
+    name = "Wouter Brunenberg"
+    email = "wouter.brunenberg@hotmail.com"
+    dateofbirth = "2004-03-07"
+
+[params]
+  EnableThemeToggle = true
+
+# Accompanying javascript code in the subtitle partial
+# Displaying subtitle is age + 'year old' + homeSubtitle
+  homeSubtitle = "software engineering student at Avans University of Applied Sciences"
+
+[params.portrait]
+    path     = "/images/home/portrait.png"
+    alt      = "Portrait"
+    size = "175px"
+
+# Social icons
+  [[params.social]]
+    name = "email"
+    url  = "mailto:wouter.brunenberg@hotmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/brunenberg"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/wouterbrunenberg"
+
+# [[params.social]]
+#    name = "stackoverflow"
+#    url  = "https://stackoverflow.com/users/24323776/wouter-brunenberg"
+
+#  [[params.social]]
+#    name = "spotify"
+#    url  = "https://open.spotify.com/user/31hq2nmmk4zk4eybl74otsppfntm"
+
+[params.footer]
+    trademark = "2024"
+    author = true
+    topText = ["Software Engineering Student"]
+    bottomText = ["wouter.brunenberg@hotmail.com", "https://github.com/brunenberg"]
+
+[taxonomies]
+  tag = "tags"
+    

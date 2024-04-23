@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unit Testing on Wouter Brunenberg</title>
+    <link>http://localhost:1313/tags/unit-testing/</link>
+    <description>Recent content in Unit Testing on Wouter Brunenberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</managingEditor>
+    <webMaster>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</webMaster>
+    <lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/unit-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beestje Op Je Feestje</title>
+      <link>http://localhost:1313/portfolio/beestje-op-je-feestje/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/beestje-op-je-feestje/</guid>
+      <description>Overview 🗺️ &amp;lsquo;Beestje Op Je Feestje&amp;rsquo; is an app we created in pairs using ASP.NET for a school project. The project mainly focused on validation rules, user authorization and authentication, unit testing, and hosting. An admin user can create animals with specific characteristics. These animals can then be rented by customers for a day, usually for parties. There are rules for choosing animals (for instance, some animals can&amp;rsquo;t be rented with certain others, based on their name or type).</description>
+    </item>
+    <item>
+      <title>Bazaar</title>
+      <link>http://localhost:1313/portfolio/bazaar/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/bazaar/</guid>
+      <description>Overview 🗺️ &amp;lsquo;Bazaar&amp;rsquo; is a web application developed using the Laravel framework as part of an academic project. It was collaboratively created by a team of two students. The platform is designed to integrate features reminiscent of “Marktplaats” and “iBood”, offering a unique marketplace experience. The application supports three distinct user roles: private advertisers, business advertisers, and customers. Each role is equipped with specific permissions and functionalities, enabling interactions with various entities such as products or companies.</description>
+    </item>
+  </channel>
+</rss>

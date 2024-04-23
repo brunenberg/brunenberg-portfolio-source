@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solo Projects on Wouter Brunenberg</title>
+    <link>http://localhost:1313/categories/solo-projects/</link>
+    <description>Recent content in Solo Projects on Wouter Brunenberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</managingEditor>
+    <webMaster>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</webMaster>
+    <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/solo-projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Temple Of Doom</title>
+      <link>http://localhost:1313/portfolio/temple-of-doom/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/temple-of-doom/</guid>
+      <description>Overview Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used Technology 1 Technology 2 Challenges and Solutions Discuss any challenges faced and how I overcame them.&#xA;Screenshots !Project Screenshot&#xA;Conclusion Summarize the project and its impact.</description>
+    </item>
+    <item>
+      <title>Drawing Application</title>
+      <link>http://localhost:1313/portfolio/drawing-app/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/drawing-app/</guid>
+      <description>Overview Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used Technology 1 Technology 2 Challenges and Solutions Discuss any challenges faced and how I overcame them.&#xA;Screenshots !Project Screenshot&#xA;Conclusion Summarize the project and its impact.</description>
+    </item>
+    <item>
+      <title>Tile Switcher</title>
+      <link>http://localhost:1313/portfolio/tile-switcher/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/tile-switcher/</guid>
+      <description>Overview Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used Technology 1 Technology 2 Challenges and Solutions Discuss any challenges faced and how I overcame them.&#xA;Screenshots !Project Screenshot&#xA;Conclusion Summarize the project and its impact.</description>
+    </item>
+    <item>
+      <title>Speedquiz</title>
+      <link>http://localhost:1313/portfolio/speedquiz/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/speedquiz/</guid>
+      <description>Overview Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used Technology 1 Technology 2 Challenges and Solutions Discuss any challenges faced and how I overcame them.&#xA;Screenshots !Project Screenshot&#xA;Conclusion Summarize the project and its impact.</description>
+    </item>
+    <item>
+      <title>Reversi</title>
+      <link>http://localhost:1313/portfolio/reversi/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/reversi/</guid>
+      <description>Overview Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used Technology 1 Technology 2 Challenges and Solutions Discuss any challenges faced and how I overcame them.&#xA;Screenshots !Project Screenshot&#xA;Conclusion Summarize the project and its impact.</description>
+    </item>
+    <item>
+      <title>Sesame Street Website</title>
+      <link>http://localhost:1313/portfolio/sesame-street-website/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/sesame-street-website/</guid>
+      <description>Overview Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used Technology 1 Technology 2 Challenges and Solutions Discuss any challenges faced and how I overcame them.&#xA;Screenshots !Project Screenshot&#xA;Conclusion Summarize the project and its impact.</description>
+    </item>
+    <item>
+      <title>Connect Four</title>
+      <link>http://localhost:1313/portfolio/connect-four/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/connect-four/</guid>
+      <description>Overview Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used Technology 1 Technology 2 Challenges and Solutions Discuss any challenges faced and how I overcame them.&#xA;Screenshots !Project Screenshot&#xA;Conclusion Summarize the project and its impact.</description>
+    </item>
+  </channel>
+</rss>

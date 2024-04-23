@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio 💼 on Wouter Brunenberg</title>
+    <link>http://localhost:1313/portfolio/</link>
+    <description>Recent content in Portfolio 💼 on Wouter Brunenberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</managingEditor>
+    <webMaster>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</webMaster>
+    <lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beestje Op Je Feestje</title>
+      <link>http://localhost:1313/portfolio/beestje-op-je-feestje/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/beestje-op-je-feestje/</guid>
+      <description>Overview 🗺️ &amp;lsquo;Beestje Op Je Feestje&amp;rsquo; is an app we created in pairs using ASP.NET for a school project. The project mainly focused on validation rules, user authorization and authentication, unit testing, and hosting. An admin user can create animals with specific characteristics. These animals can then be rented by customers for a day, usually for parties. There are rules for choosing animals (for instance, some animals can&amp;rsquo;t be rented with certain others, based on their name or type).</description>
+    </item>
+    <item>
+      <title>Bazaar</title>
+      <link>http://localhost:1313/portfolio/bazaar/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/bazaar/</guid>
+      <description>Overview 🗺️ &amp;lsquo;Bazaar&amp;rsquo; is a web application developed using the Laravel framework as part of an academic project. It was collaboratively created by a team of two students. The platform is designed to integrate features reminiscent of “Marktplaats” and “iBood”, offering a unique marketplace experience. The application supports three distinct user roles: private advertisers, business advertisers, and customers. Each role is equipped with specific permissions and functionalities, enabling interactions with various entities such as products or companies.</description>
+    </item>
+    <item>
+      <title>Temple of Doom</title>
+      <link>http://localhost:1313/portfolio/temple-of-doom/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/temple-of-doom/</guid>
+      <description>Overview 🗺️ &amp;lsquo;Temple of Doom&amp;rsquo; is a console application developed using the .NET MVC framework. The goal of this assignment was to practice a lot of different design patterns. The front consisted of a console with different characters and colours, depending on the type of object and if it had a colour property assigned to it (in the case of a key or coloured door for example).&#xA;Technologies Used 🛠️ C# .</description>
+    </item>
+    <item>
+      <title>Project Bumbo</title>
+      <link>http://localhost:1313/portfolio/project-bumbo/</link>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/project-bumbo/</guid>
+      <description>Overview 🗺️ &amp;lsquo;Project Bumbo&amp;rsquo; was a group project I participated in during my school days, where our team of five was tasked with solving a pressing issue for &amp;lsquo;Bumbo&amp;rsquo;, a fictional supermarket chain. The challenge at hand was the time-consuming and inefficient scheduling process that the store manager faced every week. This often resulted in employees working overtime and shifts where the store was either understaffed or overstaffed.&#xA;Technologies Used 🛠️ C# ASP.</description>
+    </item>
+    <item>
+      <title>Drawing Application</title>
+      <link>http://localhost:1313/portfolio/drawing-app/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/drawing-app/</guid>
+      <description>Overview 🗺️ When school ended for the year and I had some spare time, I chose to start building a drawing/editing app using JavaFX. I had just learned about this technology and was curious to see how far I could get with this somewhat outdated technology. After setting up the basic features and tools like the pencil, brush, paint bucket, and eraser, I stopped working on the project. I decided it would be better to start exploring other technologies.</description>
+    </item>
+    <item>
+      <title>Pane Switcher</title>
+      <link>http://localhost:1313/portfolio/pane-switcher/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/pane-switcher/</guid>
+      <description>Overview 🗺️ &amp;lsquo;Pane Switcher&amp;rsquo; is an application I crafted for a programming test at school. The challenge was to replicate a given example app within 90 minutes. This app featured a button that, when pressed, would modify the appearance of various panels. Although I completed the task within the exam period, I chose to refine my work at home for better results.&#xA;Technologies Used 🛠️ Java JavaFX Eclipse Challenges and Solutions 🧗🏻 The primary hurdle was incorporating a StackPane, which was new to me.</description>
+    </item>
+    <item>
+      <title>Project Sagrada</title>
+      <link>http://localhost:1313/portfolio/project-sagrada/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/project-sagrada/</guid>
+      <description>Overview 🗺️ &amp;lsquo;Project Sagrada&amp;rsquo; was a school project that marked my first significant collaboration, where I worked with a team of five to eight people (it increased because of issues in one of the other groups). This project introduced me to Git and GitHub. Our objective was to develop an online version of the board game &amp;ldquo;Sagrada&amp;rdquo; using JavaFX. We followed a detailed list of requirements to ensure the game was up to the standard.</description>
+    </item>
+    <item>
+      <title>Reversi</title>
+      <link>http://localhost:1313/portfolio/reversi/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/reversi/</guid>
+      <description>Overview 🗺️ &amp;lsquo;Temple of Doom&amp;rsquo; is a console application developed for a school assignment. The goal of making this application was to achieve a good understanding of OOP (Object Oriented Programming). I had to recreate the board game &amp;lsquo;Reversi&amp;rsquo;. The player(s) have to answer a few questions about the game configuration before starting. After that, it&amp;rsquo;s just a normal game of Reversi.&#xA;Technologies Used 🛠️ Java Eclipse OOP (Object Oriented Programming) Challenges and Solutions 🧗🏻 Initially it was a little difficult to get a grasp on the concept of OOP (Object Oriented Programming).</description>
+    </item>
+    <item>
+      <title>Sesame Street Website</title>
+      <link>http://localhost:1313/portfolio/sesame-street-website/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>http://localhost:1313/portfolio/sesame-street-website/</guid>
+      <description>Overview 🗺️ For this project, I was tasked with creating a website on a theme of my choice. I decided on a Sesame Street theme because I&amp;rsquo;ve always been drawn to its look and it brings back nostalgic memories. The website had to fulfill certain criteria like having five pages each with a unique layout, being responsive using media queries, and including a web form (which wasn&amp;rsquo;t part of the five-page requirement).</description>
+    </item>
+  </channel>
+</rss>
