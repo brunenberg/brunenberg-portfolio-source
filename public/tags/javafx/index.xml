@@ -29,7 +29,7 @@
       <link>http://localhost:1313/portfolio/project-sagrada/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
       <guid>http://localhost:1313/portfolio/project-sagrada/</guid>
-      <description>Overview 🗺️ Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used 🛠️ Technology 1 Technology 2 Challenges and Solutions 🧗🏻 Discuss any challenges faced and how I overcame them.&#xA;Showcase 📸 !Project Screenshot&#xA;Conclusion 🏁 Summarize the project and its impact.</description>
+      <description>Overview 🗺️ &amp;lsquo;Project Sagrada&amp;rsquo; was a school project that marked my first significant collaboration, where I worked with a team of five to eight people (it increased because of issues in one of the other groups). This project introduced me to Git and GitHub. Our objective was to develop an online version of the board game &amp;ldquo;Sagrada&amp;rdquo; using JavaFX. We followed a detailed list of requirements to ensure the game was up to the standard.</description>
     </item>
   </channel>
 </rss>
