@@ -16,7 +16,7 @@ theme = "hello-friend-ng"
   homeSubtitle = "software engineering student at Avans Hogeschool"
 
 [params.portrait]
-    path     = "/images/home/placeholder.jpg"
+    path     = "/images/home/portrait.png"
     alt      = "Portrait"
     size = "175px"
 
