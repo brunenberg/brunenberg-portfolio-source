@@ -13,7 +13,7 @@ theme = "hello-friend-ng"
 
 # Accompanying javascript code in the subtitle partial
 # Displaying subtitle is age + 'year old' + homeSubtitle
-  homeSubtitle = "software engineering student at Avans Hogeschool"
+  homeSubtitle = "software engineering student at Avans University of Applied Sciences"
 
 [params.portrait]
     path     = "/images/home/portrait.png"
@@ -44,7 +44,7 @@ theme = "hello-friend-ng"
 [params.footer]
     trademark = "2024"
     author = true
-    topText = ["Software Engineering Student at Avans Hogeschool"]
+    topText = ["Software Engineering Student"]
     bottomText = ["wouter.brunenberg@hotmail.com", "https://github.com/brunenberg"]
 
 [taxonomies]
