@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows Forms on Wouter Brunenberg</title>
+    <link>https://brunenberg.github.io/tags/windows-forms/</link>
+    <description>Recent content in Windows Forms on Wouter Brunenberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</managingEditor>
+    <webMaster>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</webMaster>
+    <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://brunenberg.github.io/tags/windows-forms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Connect Four</title>
+      <link>https://brunenberg.github.io/portfolio/connect-four/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate><author>wouter.brunenberg@hotmail.com (Wouter Brunenberg)</author>
+      <guid>https://brunenberg.github.io/portfolio/connect-four/</guid>
+      <description>Overview 🗺️ Describe the project, its goals, and what it accomplishes.&#xA;Technologies Used 🛠️ Technology 1 Technology 2 Challenges and Solutions 🧗🏻 Discuss any challenges faced and how I overcame them.&#xA;Showcase 📸 !Project Screenshot&#xA;Conclusion 🏁 Summarize the project and its impact.</description>
+    </item>
+  </channel>
+</rss>
